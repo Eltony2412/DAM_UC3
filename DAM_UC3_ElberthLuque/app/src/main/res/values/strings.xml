@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DAM_UC3_ElberthLuque</string>
+    <string name="Buton_Entrar">Entrar</string>
+    <string name="Buton_Registro">Registrarse</string>
+    <string name="txt_nombre"></string>
+    <string name="txt_ape"></string>
+    <string name="txt_correo"></string>
+    <string name="txt_contra"></string>
+    <string name="chekbox_sesion">No cerrar sesion</string>
+
+    <string name="txt_correo_bAzul"></string>
+    <string name="txt_contra_bAzul"></string>
+</resources>
